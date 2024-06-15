@@ -16,5 +16,5 @@ Um lokale Änderungen zu behalten und dennoch aktualisierungen vom Server zu hol
 `git pull`<br>
 `git stash pop`
 <br><br><br>
-[Home](https://git.fullme.sh/)<br>
+[![Home](./assets/img/home.png)](https://git.fullme.sh/)<br>
 [Nächste Seite: Git Status](./status.html)

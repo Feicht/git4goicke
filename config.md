@@ -7,5 +7,5 @@ Hinterlegen von Account (Name und Mail):<br>
 `git config --global user.name "<name>"`<br>
 `git config --global user.email "<name@mail.de>"`
 <br><br><br>
-[Home](https://git.fullme.sh/)<br>
+[![Home](./assets/img/home.png)](https://git.fullme.sh/)<br>
 [Nächste Seite: Clone Repository](./repo.html)

@@ -11,5 +11,5 @@ Windows: [Git Donwload](https://www.git-scm.com/download/win)<br>
 Alternativ via Powershell:<br>
 `winget install --id Git.Git -e --source winget`
 <br><br><br>
-[Home](https://git.fullme.sh/)<br>
+[![Home](./assets/img/home.png)](https://git.fullme.sh/)<br>
 [Nächste Seite: Grundkonfiguration Git](./config.html)
