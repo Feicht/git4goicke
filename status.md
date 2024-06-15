@@ -27,8 +27,8 @@ Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden
 
 #### Lokale Änderung mit git add, mit git commit, ohne git push
 
-![Output Git Status Ohne Push](./assets/img/status-outp_wpush.jpg)#
-[=> Macht git push](./commit.html)
+![Output Git Status Ohne Push](./assets/img/status-outp_wpush.jpg)
+[=> Mach git push](./commit.html)
 <br><br><br>
 [![Home](./assets/img/home.png)Home](https://git.fullme.sh/)<br><br>
 [![Grundkonfiguration Git](./assets/img/gear.png) Nächste Seite: Änderungen veröffentlichen](./commit.html)
