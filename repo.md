@@ -4,19 +4,19 @@ title: Clone Repo
 description: Ein Repository clonen
 ---
 Herausfinden, wo das Repository zu finden ist. <br>
-github.com / gitlab.domain.xyz
-<br>
+github.com / gitlab.domain.xyz<br>
+<br><br>
 Meistens: <br>
-Git-Server / Ordner / Repository .git
+Git-Server / Ordner / Repository .git<br>
 <br>
-Beispiel: https://github.com/User/Repository.git
+Beispiel: https://github.com/User/Repository.git<br>
 <br>
-CMD-Befehl git
-`git clone <repo> [<dir>]`
+CMD-Befehl git<br>
+`git clone <repo> [<dir>]`<br>
+`git clone <repo> C:\Temp\xyz`<br>
+> Ohne Pfad-angabe wird das Repo in das Verzeichnis gecloned, in dem die CMD akutell ist (current-dir)
 <br>
-`git clone <repo> C:\Temp\xyz`
-(Ohne Pfad-angabe wird das Repo in das Verzeichnis gecloned, in dem die CMD akutell ist (current-dir))
-<br>
+Output:<br>
 // <br>
 D:\Dev\test>git clone https://github.com/Feicht/git4goicke.git <br>
 Cloning into 'git4goicke'... <br>
@@ -29,9 +29,10 @@ Resolving deltas: 100% (1/1), done. <br>
 // <br>
 <br>
 Falls ein anderer Branch verwendet werden soll: <br>
-`git branch -r`
-(zeigt alle verfügbaren branches an) <br>
+`git branch -r`<br>
+> zeigt alle verfügbaren branches an
 <br>
+Output:<br>
 // <br>
 D:\Dev\test\git4goicke>git branch -r <br>
   origin/HEAD -> origin/main <br>
@@ -40,9 +41,10 @@ D:\Dev\test\git4goicke>git branch -r <br>
 // <br>
 <br>
 um den branch zu wechseln: <br>
-`git checkout <branch>`
-`git checkout test`
+`git checkout <branch>`<br>
+`git checkout test`<br>
 <br>
+Output:<br>
 // <br>
 D:\Dev\test\git4goicke>git checkout test <br>
 branch 'test' set up to track 'origin/test'. <br>
