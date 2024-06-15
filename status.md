@@ -4,8 +4,16 @@ title: Git Status
 description: Lokalen Status einsehen
 ---
 # Git Status
-Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden kann.
+Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden kann.<br>
 `git status`
+<br>
+#### Alles ist aktuell
+Output: <br>
+> Already up to date.
+
+<br>
+
+![Output Git Status Alles gut](./assets/img/status-outp_good.jpg)
 <br>
 #### Lokale Änderung ohne git add
 Output: <br>
@@ -21,6 +29,7 @@ Output: <br>
 > no changes added to commit (use "git add" and/or "git commit -a") <br>
 
 <br>
+
 ![Output Git Status Local Changes without Add](./assets/img/status-outp_wadd.jpg)
 <br>
 #### Lokale Änderung mit git add, ohne git commit
@@ -44,5 +53,7 @@ Output: <br>
 >  (use "git push" to publish your local commits)
 >
 > nothing to commit, working tree clean
+
+<br>
 
 ![Output Git Status Ohne Push](./assets/img/status-outp_wpush.jpg)

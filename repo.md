@@ -13,6 +13,7 @@ Beispiel: https://github.com/User/Repository.git<br>
 <br>
 CMD-Befehl Git<br>
 `git clone <repo> [<dir>]`<br>
+<br>
 Beispiel: <br>
 `git clone <repo> C:\Temp\xyz`<br>
 > Ohne Angabe des Pfades wird das Repo in das Verzeichnis kopiert, in das aktuelles Verzeichnis (der CMD (dir))
@@ -27,3 +28,7 @@ Output: <br>
 > remote: Total 22 (delta 1), reused 14 (delta 1), pack-reused 0 <br>
 > Receiving objects: 100% (22/22), 4.54 KiB | 2.27 MiB/s, done. <br>
 > Resolving deltas: 100% (1/1), done. <br>
+
+<br>
+
+![Output Git Clone](./assets/img/git-clone.jpg)
