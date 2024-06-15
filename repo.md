@@ -8,7 +8,6 @@ Herausfinden, wo das Repository zu finden ist. <br>
 github.com / gitlab.domain.xyz<br>
 <br>
 HTTPS:// Git-Server / Ordner / Repository .git<br>
-<br>
 Beispiel: https://github.com/User/Repository.git<br>
 
 ![Github Clone Link](./assets/img/git-clone_site.jpg)
@@ -23,3 +22,6 @@ Beispiel: <br>
 
 
 ![Output Git Clone](./assets/img/git-clone.jpg)
+<br>
+[Home](https://git.fullme.sh/)<br>
+[Nächste Seite: Branches](./branch.html)

@@ -18,3 +18,6 @@ Beispiel:<br>
 `git checkout test`<br>
 
 ![Output Git Checkout](./assets/img/git-checkout.jpg)
+<br>
+[Home](https://git.fullme.sh/)<br>
+[Nächste Seite: Repository aktualisieren](./repo-fresh.html)
