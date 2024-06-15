@@ -6,3 +6,5 @@ layout: default
 [Clone Repository](./repo.html)<br>
 [Branches](./branch.html)<br>
 [Repository aktualisieren](./repo-fresh.html)<br>
+[Git Status](./status.html)<br>
+[Änderungen veröffentlichen](./commit.html)<br>
