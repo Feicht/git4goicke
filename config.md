@@ -2,6 +2,7 @@
 layout: default
 title: Config Git
 description: Grundkonfiguration Git
+---
 
 Hinterlegen von Account (Name und Mail):
 - git config --global user.name "NAME"
