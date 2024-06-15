@@ -28,31 +28,4 @@ remote: Compressing objects: 100% (12/12), done. <br>
 remote: Total 22 (delta 1), reused 14 (delta 1), pack-reused 0 <br>
 Receiving objects: 100% (22/22), 4.54 KiB | 2.27 MiB/s, done. <br>
 Resolving deltas: 100% (1/1), done. <br>
-// <br>
-<br>
-## Branch auswählen (optional)
-<br>
-Falls ein anderer Branch verwendet werden soll: <br>
-`git branch -r`<br>
-> zeigt alle verfügbaren branches an
-
-<br>
-Output:<br>
-// <br>
-D:\Dev\test\git4goicke>git branch -r <br>
-  origin/HEAD -> origin/main <br>
-  origin/main <br>
-  origin/test <br>
-// <br>
-## Branch wechseln (optional)
-<br>
-um den branch zu wechseln: <br>
-`git checkout <branch>`<br>
-`git checkout test`<br>
-<br>
-Output:<br>
-// <br>
-D:\Dev\test\git4goicke>git checkout test <br>
-branch 'test' set up to track 'origin/test'. <br>
-Switched to a new branch 'test' <br>
 //
