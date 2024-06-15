@@ -22,6 +22,6 @@ Beispiel: <br>
 
 
 ![Output Git Clone](./assets/img/git-clone.jpg)
-<br>
+<br><br><br>
 [Home](https://git.fullme.sh/)<br>
 [Nächste Seite: Branches](./branch.html)
