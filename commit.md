@@ -17,9 +17,9 @@ Beispiel: <br>
 `git commit -m "Das ist ein Test"`
 <br>
 <br>
-Output: <br>
+<!-- Output: <br>
 > [main a987158] add <br>
-> 1 file changed, 3 insertions(+), 1 deletion(-)
+> 1 file changed, 3 insertions(+), 1 deletion(-) -->
 
 <br>
 

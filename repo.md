@@ -14,6 +14,7 @@ Beispiel: https://github.com/User/Repository.git<br>
 
 ![Github Clone Link](./assets/img/git-clone_site.jpg)
 <br>
+<br>
 CMD-Befehl Git<br>
 `git clone <repo> [<dir>]`<br>
 <br>
@@ -22,7 +23,7 @@ Beispiel: <br>
 > Ohne Angabe des Pfades wird das Repo in das Verzeichnis kopiert, in das aktuelles Verzeichnis (der CMD (dir))
 
 <br>
-Output: <br>
+<!-- Output: <br>
 > D:\Dev\test>git clone https://github.com/Feicht/git4goicke.git <br>
 > Cloning into 'git4goicke'... <br>
 > remote: Enumerating objects: 22, done. <br>
@@ -32,6 +33,6 @@ Output: <br>
 > Receiving objects: 100% (22/22), 4.54 KiB | 2.27 MiB/s, done. <br>
 > Resolving deltas: 100% (1/1), done. <br>
 
-<br>
+<br> -->
 
 ![Output Git Clone](./assets/img/git-clone.jpg)
