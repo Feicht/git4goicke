@@ -20,6 +20,8 @@ Output: <br>
 > <br>
 > no changes added to commit (use "git add" and/or "git commit -a") <br>
 
+![Output Git Status Local Changes without Add](./assets/img/status-outp_wadd.jpg)
+
 #### Lokale Änderung mit git add, ohne git commit
 Output: <br>
 > D:\Dev\git4goicke>git status <br>
@@ -29,3 +31,5 @@ Output: <br>
 > Changes to be committed: <br>
 >  (use "git restore --staged <file>..." to unstage) <br>
 >        modified:   index.md
+
+![Output Git Status after Add without Commit](./assets/img/status-outp_wcom.jpg)
