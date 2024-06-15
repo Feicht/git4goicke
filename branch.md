@@ -20,4 +20,4 @@ Beispiel:<br>
 ![Output Git Checkout](./assets/img/git-checkout.jpg)
 <br><br><br>
 [![Home](./assets/img/home.png)Home](https://git.fullme.sh/)<br><br>
-[![Grundkonfiguration Git](./assets/img/gear.png)Nächste Seite: Repository aktualisieren](./repo-fresh.html)
+[![Grundkonfiguration Git](./assets/img/gear.png) Nächste Seite: Repository aktualisieren](./repo-fresh.html)

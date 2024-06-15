@@ -31,4 +31,4 @@ Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden
 [=> Macht git push](./commit.html)
 <br><br><br>
 [![Home](./assets/img/home.png)Home](https://git.fullme.sh/)<br><br>
-[![Grundkonfiguration Git](./assets/img/gear.png)Nächste Seite: Änderungen veröffentlichen](./commit.html)
+[![Grundkonfiguration Git](./assets/img/gear.png) Nächste Seite: Änderungen veröffentlichen](./commit.html)
