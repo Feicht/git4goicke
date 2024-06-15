@@ -8,4 +8,4 @@ Hinterlegen von Account (Name und Mail):<br>
 `git config --global user.email "<name@mail.de>"`
 <br><br><br>
 [![Home](./assets/img/home.png)](https://git.fullme.sh/)<br>
-[Nächste Seite: Clone Repository](./repo.html)
+[![Grundkonfiguration Git](./assets/img/gear.png)]Nächste Seite: Download und Installation Git(./config.html)

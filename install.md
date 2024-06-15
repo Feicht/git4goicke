@@ -12,4 +12,4 @@ Alternativ via Powershell:<br>
 `winget install --id Git.Git -e --source winget`
 <br><br><br>
 [![Home](./assets/img/home.png)](https://git.fullme.sh/)<br>
-[Nächste Seite: Grundkonfiguration Git](./config.html)
+[![Download und Installation Git](./assets/img/download.png)]Nächste Seite: Download und Installation Git(./install.html)
