@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
+    <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
+    <!-- <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+  
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        {% if site.github.is_project_page %}
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+      </footer>
+    </div>
+  </body>
+</html>
