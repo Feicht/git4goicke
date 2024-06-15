@@ -7,15 +7,14 @@ description: Ein Repository clonen
 Herausfinden, wo das Repository zu finden ist. <br>
 github.com / gitlab.domain.xyz<br>
 <br>
-Meistens: <br>
-Git-Server / Ordner / Repository .git<br>
+HTTPS:// Git-Server / Ordner / Repository .git<br>
 <br>
 Beispiel: https://github.com/User/Repository.git<br>
 <br>
-CMD-Befehl git<br>
+CMD-Befehl Git<br>
 `git clone <repo> [<dir>]`<br>
 `git clone <repo> C:\Temp\xyz`<br>
-> Ohne Pfad-angabe wird das Repo in das Verzeichnis gecloned, in dem die CMD akutell ist (current-dir)
+> Ohne Angabe des Pfades wird das Repo in das Verzeichnis kopiert, in das aktuelles Verzeichnis (der CMD (dir))
 
 <br>
 Output:<br>

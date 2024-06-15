@@ -5,4 +5,4 @@ layout: default
 [Grundkonfiguration Git](./config.html)<br>
 [Clone Repository](./repo.html)<br>
 [Branches](./branch.html)<br>
-[Repository aktualisieren](./branch.html)<br>
+[Repository aktualisieren](./repo-fresh.html)<br>
