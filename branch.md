@@ -8,13 +8,6 @@ Falls ein anderer Branch verwendet werden soll: <br>
 `git branch -r`<br>
 > zeigt alle verfügbaren branches an
 
-<!-- <br>
-Output:<br>
-> D:\Dev\test\git4goicke>git branch -r <br>
->  origin/HEAD -> origin/main <br>
->  origin/main <br>
->  origin/test <br> -->
-
 <br>
 
 ![Output Git branch](./assets/img/git-branch.jpg)
@@ -25,12 +18,6 @@ um den branch zu wechseln: <br>
 <br>
 Beispiel:<br>
 `git checkout test`<br>
-<!-- <br>
-Output: <br>
-> D:\Dev\test\git4goicke>git checkout test <br>
-> branch 'test' set up to track 'origin/test'. <br>
-> Switched to a new branch 'test' -->
-
 <br>
 
 ![Output Git Checkout](./assets/img/git-checkout.jpg)
