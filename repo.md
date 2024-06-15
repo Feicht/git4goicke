@@ -3,9 +3,10 @@ layout: default
 title: Clone Repo
 description: Ein Repository clonen
 ---
+## Repo finden
 Herausfinden, wo das Repository zu finden ist. <br>
 github.com / gitlab.domain.xyz<br>
-<br><br>
+<br>
 Meistens: <br>
 Git-Server / Ordner / Repository .git<br>
 <br>
@@ -15,6 +16,7 @@ CMD-Befehl git<br>
 `git clone <repo> [<dir>]`<br>
 `git clone <repo> C:\Temp\xyz`<br>
 > Ohne Pfad-angabe wird das Repo in das Verzeichnis gecloned, in dem die CMD akutell ist (current-dir)
+
 <br>
 Output:<br>
 // <br>
@@ -28,9 +30,12 @@ Receiving objects: 100% (22/22), 4.54 KiB | 2.27 MiB/s, done. <br>
 Resolving deltas: 100% (1/1), done. <br>
 // <br>
 <br>
+## Branch auswählen (optional)
+<br>
 Falls ein anderer Branch verwendet werden soll: <br>
 `git branch -r`<br>
 > zeigt alle verfügbaren branches an
+
 <br>
 Output:<br>
 // <br>
@@ -39,6 +44,7 @@ D:\Dev\test\git4goicke>git branch -r <br>
   origin/main <br>
   origin/test <br>
 // <br>
+## Branch wechseln (optional)
 <br>
 um den branch zu wechseln: <br>
 `git checkout <branch>`<br>

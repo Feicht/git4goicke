@@ -4,7 +4,7 @@ title: Download Git
 description: So kann man Git herunterladen
 ---
 Download-Link:<br>
-Windows: [Git Donwload](https://www.git-scm.com/download/win)
+Windows: [Git Donwload](https://www.git-scm.com/download/win)<br>
 *64-bit Git for Windows Setup*
 <br>
 <br>
