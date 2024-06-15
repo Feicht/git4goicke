@@ -26,4 +26,4 @@ Commit (Sammlung an Änderungen) an Repository senden <br>
 
 ![Output Git Push](./assets/img/git-push.jpg) 
 <br><br><br>
-[![Home](./assets/img/home.png)Home](https://git.fullme.sh/)<br>
+[![Home](./assets/img/home.png)Home](https://git.fullme.sh/)
