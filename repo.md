@@ -19,13 +19,12 @@ Beispiel: <br>
 
 <br>
 Output:<br>
-// <br>
-D:\Dev\test>git clone https://github.com/Feicht/git4goicke.git <br>
-Cloning into 'git4goicke'... <br>
-remote: Enumerating objects: 22, done. <br>
-remote: Counting objects: 100% (22/22), done. <br>
-remote: Compressing objects: 100% (12/12), done. <br>
-remote: Total 22 (delta 1), reused 14 (delta 1), pack-reused 0 <br>
-Receiving objects: 100% (22/22), 4.54 KiB | 2.27 MiB/s, done. <br>
-Resolving deltas: 100% (1/1), done. <br>
-//
+> [!NOTE]
+> D:\Dev\test>git clone https://github.com/Feicht/git4goicke.git <br>
+> Cloning into 'git4goicke'... <br>
+> remote: Enumerating objects: 22, done. <br>
+> remote: Counting objects: 100% (22/22), done. <br>
+> remote: Compressing objects: 100% (12/12), done. <br>
+> remote: Total 22 (delta 1), reused 14 (delta 1), pack-reused 0 <br>
+> Receiving objects: 100% (22/22), 4.54 KiB | 2.27 MiB/s, done. <br>
+> Resolving deltas: 100% (1/1), done. <br>
