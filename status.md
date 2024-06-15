@@ -8,7 +8,7 @@ Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden
 `git status`
 <br>
 #### Lokale Änderung ohne git add
-> [!Output] <br>
+Output: <br>
 > D:\Dev\git4goicke>git status <br>
 > On branch main <br>
 > Your branch is up to date with 'origin/main'. <br>
@@ -19,9 +19,9 @@ Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden
 >        modified:   repo.md <br>
 > <br>
 > no changes added to commit (use "git add" and/or "git commit -a") <br>
-<br>
+
 #### Lokale Änderung mit git add, ohne git commit
-> [!Output] <br>
+Output: <br>
 > D:\Dev\git4goicke>git status <br>
 > On branch main <br>
 > Your branch is up to date with 'origin/main'. <br>

@@ -14,14 +14,14 @@ Output:<br>
 >  origin/HEAD -> origin/main <br>
 >  origin/main <br>
 >  origin/test <br>
-<br>
+
 ## Branch wechseln (optional)
 um den branch zu wechseln: <br>
 `git checkout <branch>`<br>
 Beispiel:<br>
 `git checkout test`<br>
 <br>
-Output:<br>
+Output: <br>
 > D:\Dev\test\git4goicke>git checkout test <br>
 > branch 'test' set up to track 'origin/test'. <br>
 > Switched to a new branch 'test'

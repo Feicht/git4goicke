@@ -18,7 +18,7 @@ Beispiel: <br>
 > Ohne Angabe des Pfades wird das Repo in das Verzeichnis kopiert, in das aktuelles Verzeichnis (der CMD (dir))
 
 <br>
-> [!NOTE] <br>
+Output: <br>
 > D:\Dev\test>git clone https://github.com/Feicht/git4goicke.git <br>
 > Cloning into 'git4goicke'... <br>
 > remote: Enumerating objects: 22, done. <br>
