@@ -16,7 +16,6 @@ Datei in einem Commit hinzufügen (eine Sammlung an Änderungen) <br>
 Beispiel: <br>
 `git commit -m "Das ist ein Test"`
 <br>
-<br>
 
 ![Output Git Commit](./assets/img/git-commit.jpg)
 

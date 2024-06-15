@@ -10,7 +10,6 @@ github.com / gitlab.domain.xyz<br>
 HTTPS:// Git-Server / Ordner / Repository .git<br>
 <br>
 Beispiel: https://github.com/User/Repository.git<br>
-<br>
 
 ![Github Clone Link](./assets/img/git-clone_site.jpg)
 <br>
