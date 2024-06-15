@@ -4,5 +4,5 @@ title: Config Git
 description: Grundkonfiguration Git
 ---
 Hinterlegen von Account (Name und Mail):<br>
-`git config --global user.name "NAME"`<br>
-`git config --global user.email "name@mail.de"`
+`git config --global user.name "<name>"`<br>
+`git config --global user.email "<name@mail.de>"`

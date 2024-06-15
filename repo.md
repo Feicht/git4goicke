@@ -13,6 +13,7 @@ Beispiel: https://github.com/User/Repository.git<br>
 <br>
 CMD-Befehl Git<br>
 `git clone <repo> [<dir>]`<br>
+Beispiel: <br>
 `git clone <repo> C:\Temp\xyz`<br>
 > Ohne Angabe des Pfades wird das Repo in das Verzeichnis kopiert, in das aktuelles Verzeichnis (der CMD (dir))
 

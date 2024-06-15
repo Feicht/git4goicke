@@ -4,7 +4,6 @@ title: Branch
 description: Ein Brauch wählen
 ---
 ## Branch auswählen (optional)
-<br>
 Falls ein anderer Branch verwendet werden soll: <br>
 `git branch -r`<br>
 > zeigt alle verfügbaren branches an
@@ -18,9 +17,9 @@ D:\Dev\test\git4goicke>git branch -r <br>
   origin/test <br>
 // <br>
 ## Branch wechseln (optional)
-<br>
 um den branch zu wechseln: <br>
 `git checkout <branch>`<br>
+Beispiel:<br>
 `git checkout test`<br>
 <br>
 Output:<br>
