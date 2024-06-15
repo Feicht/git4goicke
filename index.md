@@ -2,7 +2,7 @@
 layout: default
 ---
 Hallo Goicke,
-hier ein Tutorial zum einrichten von Git oder auch, wie du deine Repository aktualisieren kannst.<br>
+hier ein Tutorial zum einrichten von Git oder auch, wie du deine Repository aktualisieren kannst.<br><br><br>
 [Download und Installation Git](./install.html)<br>
 [Grundkonfiguration Git](./config.html)<br>
 [Clone Repository](./repo.html)<br>

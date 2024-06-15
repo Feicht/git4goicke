@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Branch
-description: Ein Brauch wählen
+description: Einen Branch wählen
 ---
 ## Branch auswählen (optional)
 Falls ein anderer Branch verwendet werden soll: <br>
