@@ -20,8 +20,9 @@ Output: <br>
 > <br>
 > no changes added to commit (use "git add" and/or "git commit -a") <br>
 
+<br>
 ![Output Git Status Local Changes without Add](./assets/img/status-outp_wadd.jpg)
-
+<br>
 #### Lokale Änderung mit git add, ohne git commit
 Output: <br>
 > D:\Dev\git4goicke>git status <br>
@@ -32,4 +33,16 @@ Output: <br>
 >  (use "git restore --staged <file>..." to unstage) <br>
 >        modified:   index.md
 
+<br>
 ![Output Git Status after Add without Commit](./assets/img/status-outp_wcom.jpg)
+<br>
+#### Lokale Änderung mit git add, mit git commit, ohne git push
+Output: <br>
+> D:\Dev\git4goicke>git status
+> On branch main
+> Your branch is ahead of 'origin/main' by 2 commits.
+>  (use "git push" to publish your local commits)
+>
+> nothing to commit, working tree clean
+
+![Output Git Status Ohne Push](./assets/img/status-outp_wpush.jpg)
