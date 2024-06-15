@@ -15,11 +15,11 @@ Datei in einem Commit hinzufügen (eine Sammlung an Änderungen) <br>
 Beispiel: <br>
 `git commit -m "Das ist ein Test"`
 <br>
-> s[!Output]
-> [main a987158] add
+> [!Output] <br>
+> [main a987158] add <br>
 > 1 file changed, 3 insertions(+), 1 deletion(-)
 <br>
 <br>
 ## Push
-Commit (Sammlung an Änderungen) an Repository senden
+Commit (Sammlung an Änderungen) an Repository senden <br>
 `git push`

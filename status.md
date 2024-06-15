@@ -8,24 +8,24 @@ Der Status zeigt immer den aktuellen Stand an und was als nächstes getan werden
 `git status`
 <br>
 #### Lokale Änderung ohne git add
-> [!Output]
-> D:\Dev\git4goicke>git status
-> On branch main
->Your branch is up to date with 'origin/main'.
->
->Changes not staged for commit:
->  (use "git add <file>..." to update what will be committed)
->  (use "git restore <file>..." to discard changes in working directory)
->        modified:   repo.md
->
-> no changes added to commit (use "git add" and/or "git commit -a")
+> [!Output] <br>
+> D:\Dev\git4goicke>git status <br>
+> On branch main <br>
+> Your branch is up to date with 'origin/main'. <br>
+> <br>
+> Changes not staged for commit: <br>
+>  (use "git add <file>..." to update what will be committed) <br>
+>  (use "git restore <file>..." to discard changes in working directory) <br>
+>        modified:   repo.md <br>
+> <br>
+> no changes added to commit (use "git add" and/or "git commit -a") <br>
 <br>
 #### Lokale Änderung mit git add, ohne git commit
-> [!Output]
-> D:\Dev\git4goicke>git status
-> On branch main
-> Your branch is up to date with 'origin/main'.
->
-> Changes to be committed:
->  (use "git restore --staged <file>..." to unstage)
+> [!Output] <br>
+> D:\Dev\git4goicke>git status <br>
+> On branch main <br>
+> Your branch is up to date with 'origin/main'. <br>
+> <br>
+> Changes to be committed: <br>
+>  (use "git restore --staged <file>..." to unstage) <br>
 >        modified:   index.md

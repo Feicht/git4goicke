@@ -10,12 +10,11 @@ Falls ein anderer Branch verwendet werden soll: <br>
 
 <br>
 Output:<br>
-// <br>
-D:\Dev\test\git4goicke>git branch -r <br>
-  origin/HEAD -> origin/main <br>
-  origin/main <br>
-  origin/test <br>
-// <br>
+> D:\Dev\test\git4goicke>git branch -r <br>
+>  origin/HEAD -> origin/main <br>
+>  origin/main <br>
+>  origin/test <br>
+<br>
 ## Branch wechseln (optional)
 um den branch zu wechseln: <br>
 `git checkout <branch>`<br>
@@ -23,8 +22,6 @@ Beispiel:<br>
 `git checkout test`<br>
 <br>
 Output:<br>
-// <br>
-D:\Dev\test\git4goicke>git checkout test <br>
-branch 'test' set up to track 'origin/test'. <br>
-Switched to a new branch 'test' <br>
-//
+> D:\Dev\test\git4goicke>git checkout test <br>
+> branch 'test' set up to track 'origin/test'. <br>
+> Switched to a new branch 'test'
