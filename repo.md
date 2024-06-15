@@ -11,6 +11,9 @@ HTTPS:// Git-Server / Ordner / Repository .git<br>
 <br>
 Beispiel: https://github.com/User/Repository.git<br>
 <br>
+
+![Github Clone Link](./assets/img/git-clone_site.jpg)
+<br>
 CMD-Befehl Git<br>
 `git clone <repo> [<dir>]`<br>
 <br>
