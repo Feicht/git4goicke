@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <title>{{ page.title | default: site.title | default: site.github.repository_name }}</title>
     <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
-    <!-- <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}"> -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
     {% include head-custom.html %}
   </head>
@@ -16,6 +15,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 id="project_description">{{ site.description | default: site.github.project_tagline }}</h1>
         </header>
     </div>
 
